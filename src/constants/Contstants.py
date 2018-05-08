@@ -1,0 +1,30 @@
+"""
+Global constants
+"""
+
+# Colors
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+BLUE = (0, 0, 255)
+GREEN = (0, 255, 0)
+RED = (255, 0, 0)
+
+# Screen dimensions
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+
+
+# animation
+IDLE_FRAMERATE = 0.2
+JUMP_FRAMERATE = 0.3
+BASIC_ATTACK_FRAMERATE = 0.1
+COMBO_BREAK_TIME = 0.7
+TAKING_DAMAGE_FRAMERATE = 0.5
+
+# skill animation
+CHIDORY_SKILL_FRAMERATE = 0.2
+RASENGAN_SKILL_FRAMERATE = 0.2
+
+
+#keypress
+KEY_A_HOLD = 0.4
